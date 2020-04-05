@@ -20,6 +20,7 @@ public class DefaultWebTest {
 	public void test() {
 		System.out.println("test 브랜치에서 작업중");
 		System.out.println("master 브랜치에서 작업중");
+		System.out.println("sooooooooooo hot!@Test");
 		fail("Not yet implemented");
 	}
 
